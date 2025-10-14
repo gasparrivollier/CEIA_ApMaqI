@@ -1,0 +1,19 @@
+# Core
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+scipy>=1.12.0
+
+# Machine Learning
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+
+# Utilities
+python-dateutil>=2.9.0
+joblib>=1.3.0
+
+# Optional (según tu uso)
+tqdm>=4.66.0           # barras de progreso en loops
+ipykernel>=6.29.0      # para notebooks Jupyter
+jupyterlab>=4.1.0      # entorno visual opcional
