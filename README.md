@@ -10,13 +10,16 @@ This repository contains all materials related to the project, including the mai
 
 ```
 CEIA_ApMaqI/
-├── notebooks/
-│   ├── project_notebook.ipynb       # Main notebook with data exploration, feature engineering, training & results
+├── dataset/        
 │
-└── dataset/
-    ├── data_train.csv               # Training dataset
-    ├── data_test.csv                # Test dataset (if applicable)
-    └── README.md                    # Dataset description and variable details
+├── images/         --> Images used in .md
+│
+├── model/          --> Stores models to avoid retraining inefficiencies.
+│   
+├── notebooks/      --> Stores notebooks.
+│
+├── README.md
+├── requirements.txt
 ```
 
 ---
